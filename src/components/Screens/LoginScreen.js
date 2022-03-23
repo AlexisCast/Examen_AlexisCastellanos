@@ -125,7 +125,7 @@ export const LoginScreen = () => {
               className="img-fluidp"
             />
           </div>
-          <h4 className="text-center">Soy <b>srtista</b></h4>
+          <h4 className="text-center">Soy <b>artista</b></h4>
           <p className='formato-texto'>Crea una cuenta para comprar y conocer las obras de diferentes artistas</p>
           <form>
             <div className="form-group d-flex justify-content-center">
