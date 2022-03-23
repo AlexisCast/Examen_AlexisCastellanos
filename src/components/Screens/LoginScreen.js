@@ -53,7 +53,7 @@ export const LoginScreen = () => {
             <img
               src={magnifyglass_icon}
               alt=""
-              width="143px"
+              width="100px"
               // height="10%"
               className="img-fluidp"
             />
@@ -117,7 +117,7 @@ export const LoginScreen = () => {
             <img
               src={brush_icon}
               alt=""
-              width="143px"
+              width="100px"
               // height="10%"
               className="img-fluidp"
             />

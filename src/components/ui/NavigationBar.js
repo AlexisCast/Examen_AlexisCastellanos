@@ -1,10 +1,10 @@
 import React from 'react';
 import { Link } from "react-router-dom";
-import logo_icon from './../../assets/icons/logo_blanco.png';
 import cart_icon from './../../assets/icons/cart-icon.png';
 import heart_icon from './../../assets/icons/heart-icon.png';
 import user_icon from './../../assets/icons/user-icon.png';
 import search_icon from './../../assets/icons/search-icon.png';
+import dragonlogo from './../../assets/icons/dragonlogo.png';
 import './NavigationBar.css';
 
 export const NavigationBar = () => {
@@ -18,7 +18,7 @@ export const NavigationBar = () => {
             <div className="container-fluid">
                <a style={{ width: '40vw' }} className="navbar-brand" href={url}>
                   <img
-                     src={logo_icon}
+                     src={dragonlogo}
                      alt=""
                      width="143px"
                      // height="10%"
