@@ -1,0 +1,25 @@
+.badge {
+	color: #d629d6;
+}
+.navbar {
+	background: #0a0017;
+	color: white;
+}
+.nav-link_color {
+	color: white;
+}
+.nav-link:focus, .nav-link:hover {
+   color: #d629d6 !important;
+}
+.nav-space {
+	width: 90%;
+}
+.navbar-light .navbar-nav .nav-link {
+	color: white;
+}
+.navbar-toggler {
+	background: gray;
+}
+.highlight-icon:hover{
+   background: #d629d6;
+}

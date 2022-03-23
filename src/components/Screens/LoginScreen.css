@@ -1,0 +1,31 @@
+.color {
+	color: #d629d6;
+}
+.btn-color {
+   color: white;
+	background: #d629d6;
+   width: 170px;
+}
+.container{
+   padding-bottom: 10vh;
+}
+.border-bottom-line{
+   border-bottom-style: groove;
+   padding-bottom: 50px;
+}
+.col-md-4{
+   padding-top: 5vh;
+   margin: auto;
+}
+.col-md-12{
+   padding-top: 5vh;
+}
+.formato-texto{
+   width: 90%;
+   margin: auto;
+   text-align: center;
+   padding: 10px;
+}
+.form-group{
+   padding-top: 10px;
+}
