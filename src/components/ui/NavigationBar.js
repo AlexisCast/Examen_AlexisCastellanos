@@ -4,7 +4,7 @@ import cart_icon from './../../assets/icons/cart-icon.png';
 import heart_icon from './../../assets/icons/heart-icon.png';
 import user_icon from './../../assets/icons/user-icon.png';
 import search_icon from './../../assets/icons/search-icon.png';
-import dragonlogo from './../../assets/icons/dragonlogo.png';
+import logo_icon from './../../assets/icons/dragonlogo-icon.png';
 import './NavigationBar.css';
 
 export const NavigationBar = () => {
@@ -16,15 +16,15 @@ export const NavigationBar = () => {
          </div>
          <nav className="navbar navbar-expand-lg navbar-light">
             <div className="container-fluid">
-               <a style={{ width: '40vw' }} className="navbar-brand" href={url}>
+               {/* <a style={{ width: '40vw' }} className="navbar-brand" href={url}> */}
                   <img
-                     src={dragonlogo}
+                     src={logo_icon}
                      alt=""
                      width="143px"
                      // height="10%"
                      className="img-fluidp"
                   />
-               </a>
+               {/* </a> */}
                <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
                   <span className="navbar-toggler-icon"></span>
                </button>
