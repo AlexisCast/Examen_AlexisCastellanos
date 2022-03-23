@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Examen_AlexisCastellanos/static/css/main.119659fa.css",
+    "main.js": "/Examen_AlexisCastellanos/static/js/main.2d3b1726.js",
+    "static/media/dragonlogo-icon.png": "/Examen_AlexisCastellanos/static/media/dragonlogo-icon.d69f47f8aa2b53ffacb9.png",
+    "index.html": "/Examen_AlexisCastellanos/index.html",
+    "main.119659fa.css.map": "/Examen_AlexisCastellanos/static/css/main.119659fa.css.map",
+    "main.2d3b1726.js.map": "/Examen_AlexisCastellanos/static/js/main.2d3b1726.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.119659fa.css",
+    "static/js/main.2d3b1726.js"
+  ]
+}
