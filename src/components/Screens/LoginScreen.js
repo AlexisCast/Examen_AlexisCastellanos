@@ -26,6 +26,7 @@ export const LoginScreen = () => {
                 type="password"
                 className="form-control"
                 placeholder="Contrasena"
+                autoComplete='off'
               />
             </div>
             <div className="form-group">
@@ -83,6 +84,7 @@ export const LoginScreen = () => {
                 type="password"
                 className="form-control"
                 placeholder="Contrasena"
+                autoComplete='off'
               />
             </div>
             <div className="form-group">
@@ -91,6 +93,7 @@ export const LoginScreen = () => {
                 type="password"
                 className="form-control"
                 placeholder="Repetir Contrasena"
+                autoComplete='off'
               />
             </div>
             <div className="form-group form-check">

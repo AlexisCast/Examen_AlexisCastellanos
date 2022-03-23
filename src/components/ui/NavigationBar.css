@@ -23,3 +23,6 @@
 .highlight-icon:hover{
    background: #d629d6;
 }
+.nav-link .dropdown-toggle{
+	color: white;
+}

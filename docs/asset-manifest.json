@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/static/css/main.e5085f45.css",
-    "main.js": "/static/js/main.fe33b79f.js",
+    "main.css": "/static/css/main.119659fa.css",
+    "main.js": "/static/js/main.a7a7b1df.js",
     "static/media/dragonlogo-icon.png": "/static/media/dragonlogo-icon.d69f47f8aa2b53ffacb9.png",
     "index.html": "/index.html",
-    "main.e5085f45.css.map": "/static/css/main.e5085f45.css.map",
-    "main.fe33b79f.js.map": "/static/js/main.fe33b79f.js.map"
+    "main.119659fa.css.map": "/static/css/main.119659fa.css.map",
+    "main.a7a7b1df.js.map": "/static/js/main.a7a7b1df.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5085f45.css",
-    "static/js/main.fe33b79f.js"
+    "static/css/main.119659fa.css",
+    "static/js/main.a7a7b1df.js"
   ]
 }
